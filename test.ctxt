@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=test
+comment1.params=
+comment1.target=boolean\ again()
+comment2.params=
+comment2.target=int\ getNumber()
+comment3.params=list
+comment3.target=void\ showArray(int[])
+comment4.params=list
+comment4.target=void\ makeArray(int[])
+comment5.params=list
+comment5.target=void\ selectionSort(int[])
+comment6.params=list\ low\ high
+comment6.target=void\ selectionSort(int[],\ int,\ int)
+comment7.params=list\ key
+comment7.target=int\ recursiveBinarySearch(int[],\ int)
+comment8.params=list\ key\ low\ high
+comment8.target=int\ recursiveBinarySearch(int[],\ int,\ int,\ int)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
